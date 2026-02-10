@@ -11,7 +11,7 @@ function Box({ subject }) {
   )
 }
 export default function App() {
-  const name = "Amaro Juno Alonzo";
+  const name = "Alonzo";
   const subject = "CPEITEL";
   return (
     <div className="app">
