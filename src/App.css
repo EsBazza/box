@@ -1,9 +1,19 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    padding: 50px;
+    margin: auto;
+    text-align: center
+}
+
 .box {
-  margin: auto;
-  width: 200px;
-  height: 200px;
-  background: #FFC0CB;
-  text-align: center;
-  border: 3px solid black;
-  padding-top: 80px;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    background: pink;
+    text-align: center;
+    border: 3px solid black;
+    padding-top: 80px
 }
